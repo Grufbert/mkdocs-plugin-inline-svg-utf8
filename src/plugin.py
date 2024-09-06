@@ -16,7 +16,7 @@ def replace_with_file_content(basepath, match):
     return read_file(filename)
 
 
-class InlineSvgPlugin(BasePlugin):
+class InlineSvgPluginUtf8(BasePlugin):
     def on_page_markdown(self, markdown, **kwargs):
 
         basepath = os.path.dirname(kwargs.get("page").file.abs_src_path)
