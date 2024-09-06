@@ -8,7 +8,7 @@ def read_file(fname):
 
 setup(
     name='mkdocs-plugin-inline-svg-utf8',
-    version='0.1.0',
+    version='0.1.1',
     description='A MkDocs plugin that inlines SVG images into the output with utf-8 encoding.',
 	long_description=read_file('README.md'),
     long_description_content_type='text/markdown',
