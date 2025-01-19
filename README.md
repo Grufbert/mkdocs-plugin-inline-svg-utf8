@@ -1,5 +1,7 @@
 # mkdocs-plugin-inline-svg-utf8
 
+[![Downloads](https://img.shields.io/pypi/dm/mkdocs-plugin-inline-svg-utf8?label=Downloads&color=blueviolet)](https://pypi.org/project/mkdocs-plugin-inline-svg-utf8)
+
 Extend the plugin from craig0990 to read UTF-8 encoded files
 
 > Reads SVG images referenced from Markdown and replaces them with the SVG
